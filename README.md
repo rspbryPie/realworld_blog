@@ -1,3 +1,3 @@
 realBlog
 
-realworld-blog-gold.vercel.app
+https://realworld-blog-gold.vercel.app/
